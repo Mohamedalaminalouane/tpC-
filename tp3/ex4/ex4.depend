@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732200187 source:c:\users\mytek\desktop\corses\c++\tp3\ex4\main.cpp
+	<iostream>
+	<array>
+	<tuple>
+
