@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1732628181 source:c:\users\mytek\desktop\corses\c++\tp5\ex2\main.cpp
+	<iostream>
+	"vecteur3D.h"
+
+1732628504 c:\users\mytek\desktop\corses\c++\tp5\ex2\include\vecteur3d.h
+	<vector>
+
+1732628504 source:c:\users\mytek\desktop\corses\c++\tp5\ex2\src\vecteur3d.cpp
+	"vecteur3D.h"
+	<cmath>
+	<iostream>
+	<vector>
+

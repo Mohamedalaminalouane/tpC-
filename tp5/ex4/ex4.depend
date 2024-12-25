@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734870635 source:c:\users\mytek\desktop\corses\c++\tp5\ex4\main.cpp
+	<iostream>
+	"complexe.h"
+
+1734870635 c:\users\mytek\desktop\corses\c++\tp5\ex4\include\complexe.h
+
+1734870642 source:c:\users\mytek\desktop\corses\c++\tp5\ex4\src\complexe.cpp
+	"complexe.h"
+	<iostream>
+	<cmath>
+

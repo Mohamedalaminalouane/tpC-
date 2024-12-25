@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734888975 source:c:\users\mytek\desktop\corses\c++\tp5\ex5\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1734888975 c:\users\mytek\desktop\corses\c++\tp5\ex5\include\point.h
+

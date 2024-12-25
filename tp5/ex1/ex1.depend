@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732612445 source:c:\users\mytek\desktop\corses\c++\tp5\ex1\main.cpp
+	<iostream>
+	"etudiant.h"
+
+1732612401 source:c:\users\mytek\desktop\corses\c++\tp5\ex1\src\etudiant.cpp
+	"etudiant.h"
+
+1732612401 c:\users\mytek\desktop\corses\c++\tp5\ex1\include\etudiant.h
+	<iostream>
+
