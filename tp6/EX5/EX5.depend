@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1735141692 source:c:\users\mytek\desktop\corses\c++\tp6\ex5\main.cpp
+	<iostream>
+	"Contractuel.h"
+	"Personne.h"
+	"Etudiant.h"
+	"Enseignant.h"
+
+1735141715 source:c:\users\mytek\desktop\corses\c++\tp6\ex5\src\contractuel.cpp
+	"Contractuel.h"
+	"Personne.h"
+	"Etudiant.h"
+	"Enseignant.h"
+	<iostream>
+
+1735141532 c:\users\mytek\desktop\corses\c++\tp6\ex5\include\contractuel.h
+	"Etudiant.h"
+	"Enseignant.h"
+
+1735141532 c:\users\mytek\desktop\corses\c++\tp6\ex5\include\etudiant.h
+	"Personne.h"
+
+1735140130 c:\users\mytek\desktop\corses\c++\tp6\ex5\include\personne.h
+	<iostream>
+
+1735141532 c:\users\mytek\desktop\corses\c++\tp6\ex5\include\enseignant.h
+	"Personne.h"
+
+1735141532 source:c:\users\mytek\desktop\corses\c++\tp6\ex5\src\enseignant.cpp
+	"Enseignant.h"
+	"Personne.h"
+	<iostream>
+
+1735141532 source:c:\users\mytek\desktop\corses\c++\tp6\ex5\src\etudiant.cpp
+	"Etudiant.h"
+	"Personne.h"
+	<iostream>
+
+1735140551 source:c:\users\mytek\desktop\corses\c++\tp6\ex5\src\personne.cpp
+	"Personne.h"
+	<iostream>
+

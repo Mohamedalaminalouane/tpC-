@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1734978547 source:c:\users\mytek\desktop\corses\c++\tp6\ex2\main.cpp
+	<iostream>
+	<vector>
+	"Robot.h"
+	"RobotChasseur.h"
+
+1734978593 source:c:\users\mytek\desktop\corses\c++\tp6\ex2\src\robot.cpp
+	"robot.h"
+	<iostream>
+	<cmath>
+
+1734979034 c:\users\mytek\desktop\corses\c++\tp6\ex2\include\robot.h
+	<iostream>
+
+1734978201 c:\users\mytek\desktop\corses\c++\tp6\ex2\include\robotchasseur.h
+	"robot.h"
+
+1734979038 source:c:\users\mytek\desktop\corses\c++\tp6\ex2\src\robotchasseur.cpp
+	"robotChasseur.h"
+	"robot.h"
+	<iostream>
+	<cmath>
+

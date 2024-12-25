@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1735135181 source:c:\users\mytek\desktop\corses\c++\tp6\ex4\src\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1735135272 c:\users\mytek\desktop\corses\c++\tp6\ex4\include\piece.h
+	<iostream>
+
+1735135859 source:c:\users\mytek\desktop\corses\c++\tp6\ex4\src\pion.cpp
+	"Pion.h"
+	"Piece.h"
+	<iostream>
+
+1735135181 c:\users\mytek\desktop\corses\c++\tp6\ex4\include\pion.h
+	"Piece.h"
+
+1735135859 source:c:\users\mytek\desktop\corses\c++\tp6\ex4\src\roi.cpp
+	"Roi.h"
+	"Pion.h"
+	"Piece.h"
+	<iostream>
+
+1735135181 c:\users\mytek\desktop\corses\c++\tp6\ex4\include\roi.h
+	"Piece.h"
+
+1735135785 source:c:\users\mytek\desktop\corses\c++\tp6\ex4\main.cpp
+	<iostream>
+	<vector>
+	"Piece.h"
+	"Roi.h"
+	"Pion.h"
+

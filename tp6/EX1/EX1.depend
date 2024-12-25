@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1734971438 source:c:\users\mytek\desktop\corses\c++\tp6\ex1\main.cpp
+	<iostream>
+	"vecteur.h"
+	"vecteur3D.h"
+
+1734967746 c:\users\mytek\desktop\corses\c++\tp6\ex1\include\vecteur.h
+
+1734967717 c:\users\mytek\desktop\corses\c++\tp6\ex1\include\vecteur3d.h
+	"vecteur.h"
+
+1734970273 source:c:\users\mytek\desktop\corses\c++\tp6\ex1\src\vecteur.cpp
+	"vecteur.h"
+	<iostream>
+
+1734970273 source:c:\users\mytek\desktop\corses\c++\tp6\ex1\src\vecteur3d.cpp
+	"vecteur3D.h"
+	"vecteur.h"
+	<iostream>
+
